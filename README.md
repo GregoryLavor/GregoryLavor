@@ -1,6 +1,6 @@
-## Bem vindo(a) ao meu Github!
+# Bem vindo(a) ao meu Github!
 
-### Sobre mim:
+## Sobre mim:
 
 👋 Prazer, me chamo Gregory.
 
@@ -10,18 +10,23 @@
 
 ⚡ Atualmente estou com o foco voltado para o aprendizado de Power BI e Python.
 
-### Hard Skills:
+## Hard Skills:
 
 * Microsoft Excel
 * PostgreSQL
 
-### Soft Skills:
+## Soft Skills:
 
 * Proatividade
 * Trabalho em Equipe
 * Coachability
 * Forte Comprometimento com os Resultados
 * Adaptabilidade
+
+## Contato:
+
+- Entre em contato através do email: gregorylavor@gmail.com
+- Conecte comigo no Linkedin: https://www.linkedin.com/in/gregory-lavor-1b6676120/
 
 
 <!--
