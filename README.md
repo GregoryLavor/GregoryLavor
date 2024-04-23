@@ -26,7 +26,7 @@
 ## Contato:
 
 - Entre em contato através do email: gregorylavor@gmail.com
-- Conecte comigo no Linkedin: https://www.linkedin.com/in/gregory-lavor-1b6676120/
+- Conecte-se comigo no Linkedin: https://www.linkedin.com/in/gregory-lavor-1b6676120/
 
 
 <!--
