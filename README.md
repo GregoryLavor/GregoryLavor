@@ -1,4 +1,28 @@
-### Hi there 👋
+## Bem vindo(a) ao meu Github!
+
+### Sobre mim:
+
+👋 Prazer, me chamo Gregory.
+
+📚 Sou estudante de Análise de Dados na Digital College Brasil.
+
+⚙️ Possuo conhecimento em Excel, SQL e em como utilizar dessas ferramentas para extrair informações relevantes.
+
+⚡ Atualmente estou com o foco voltado para o aprendizado de Power BI e Python.
+
+### Hard Skills:
+
+* Microsoft Excel
+* PostgreSQL
+
+### Soft Skills:
+
+* Proatividade
+* Trabalho em Equipe
+* Coachability
+* Forte Comprometimento com os Resultados
+* Adaptabilidade
+
 
 <!--
 **GregoryLavor/GregoryLavor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
